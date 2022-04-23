@@ -1,4 +1,6 @@
-![Tweet Banner_auto_x2](https://user-images.githubusercontent.com/76846980/164914612-61bfc527-b281-42b7-9db2-26d196f2d7ba.jpg)
+<!-- ![Tweet Banner_auto_x2](https://user-images.githubusercontent.com/76846980/164914612-61bfc527-b281-42b7-9db2-26d196f2d7ba.jpg)
+ -->
+ ![general banner](https://user-images.githubusercontent.com/76846980/164918155-97d60adc-131c-4ed8-9541-b2b54b59e0fc.png)
 
 
 ## Hi friend👋
@@ -7,6 +9,7 @@
 - 🔭 I’m currently working on `Tweet DAPP Apllication`
 - 🌱 I’m currently learning `Web 3.0`
 - 👯 I’m looking to collaborate on `Open Source Project`.
+- ⭐ Currently working [@Altimetrik](http://altimetrik.com) as `Project Intern`
 
 
 ***
