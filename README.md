@@ -6,10 +6,10 @@
 ## Hi friend👋
 
 
-- 🔭 I’m currently working on `Tweet DAPP Apllication`
-- 🌱 I’m currently learning `Web 3.0`
-- 👯 I’m looking to collaborate on `Open Source Project`.
-- ⭐ Currently working [@Altimetrik](http://altimetrik.com) as `Project Intern`
+- 🔭 I’m currently working on `Tweet DAPP Apllication.`
+- 🌱 I’m currently learning `Web 3.0.`
+- 👯 I’m looking to collaborate on `Open Source Project.`
+- ⭐ Currently working [@Altimetrik](http://altimetrik.com) as `Project Intern.`
 
 
 ***
@@ -32,3 +32,12 @@
 ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+> ## **Add Me To Your Network**
+
+<span><img src="https://user-images.githubusercontent.com/76846980/164928220-70c58596-c85c-4875-b9d2-b9fc344c9f60.png" alt="drawing" width="30"/></span>
+<img src="https://user-images.githubusercontent.com/76846980/164928432-49e55817-59a3-46b4-a954-2ab34743bf38.png" alt="drawing" width="30"/>
+
+
+
