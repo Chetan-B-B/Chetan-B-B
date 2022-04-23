@@ -38,6 +38,8 @@
 
 <a href="https://twitter.com/Chetan_B_B"><img src="https://user-images.githubusercontent.com/76846980/164928220-70c58596-c85c-4875-b9d2-b9fc344c9f60.png" alt="drawing" width="30"/></a> 
 <a href="https://www.linkedin.com/in/chetan-bb/"><img src="https://user-images.githubusercontent.com/76846980/164928432-49e55817-59a3-46b4-a954-2ab34743bf38.png" alt="drawing" width="30"/> </a>
-<img src="https://user-images.githubusercontent.com/76846980/164933693-549bc33a-1ebf-4d12-804e-a07d71af00e7.png" alt="drawing" width="30"/>
+<a href="mailto:bbchetan16@gmail.com"><img src="https://user-images.githubusercontent.com/76846980/164933693-549bc33a-1ebf-4d12-804e-a07d71af00e7.png" alt="drawing" width="30"/></a>
 
+---
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Chetan-b-b&show_icons=true)
