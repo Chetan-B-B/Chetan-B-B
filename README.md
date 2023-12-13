@@ -6,8 +6,7 @@
 ## Hi friend👋
 
 
-- 🔭 I’m currently working on `Tweet DAPP Apllication.`
-- 🌱 I’m currently learning `Web 3.0.`
+
 - 👯 I’m looking to collaborate on `Open Source Project.`
 - ⭐ Currently working [@Altimetrik](http://altimetrik.com) as `Backend engineer`
 
